@@ -1,0 +1,15 @@
+/* .big_box{
+    
+    height: 350px;
+    width: 380px;
+} */
+.box{
+    background-color: #7bc6e9;
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.hide{
+    display: none;
+
+}
